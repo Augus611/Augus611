@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello 👋
+If you've come from my CV, I mostly have college projects in here. Feel free to contact me at augus611@gmail.com
 
 <!--
 **Augus611/Augus611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
